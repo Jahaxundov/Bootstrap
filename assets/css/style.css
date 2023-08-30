@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#middle .title{
+    text-align: center;
+    margin: 150px 0;
+}
+#main .title p{
+    margin: 18px 0;
+    font-weight: 700;
+    font-size: 15px;
+}   
+
+#down .card{
+    position: relative;
+    width: 100%;
+    padding: 30px 20px;
+    margin-bottom: 40px;
+    border: 2px solid magenta;
+}
+#down .icon i{
+    position: absolute;
+    padding: 28px;
+    border-radius: 100px;
+    margin-top: -100px;
+    background-color:magenta;
+    font-size: 30px;
+    
+}
+
+
+
+
